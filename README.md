@@ -16,7 +16,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [🚀 Live Demo](#front-end-repo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -46,12 +46,7 @@
   <ul>
     <li>Ruby on Rails</li>
   </ul>
-    <ul>
-    <li>React</li>
-  </ul>
-    <ul>
-    <li>Redux</li>
-  </ul>
+
 </details>
 
 <details>
@@ -67,10 +62,10 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
 
+## 🚀 Front-end Repository <a name="front-end-repo"></a>
 
-- Live Demo to be implemented
+- [Back-end-api repo](https://github.com/EddyShimwa/hello-react-front-end)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -103,9 +98,8 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd hello-rails-react
+  cd hello-rails-back-end
   gem install
-  npm install
 ```
 
 ### Usage
@@ -136,7 +130,6 @@ gem install rspec
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
